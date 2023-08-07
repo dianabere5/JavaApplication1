@@ -18,7 +18,7 @@ public class JavaApplication1 {
         
         System.out.println("Hola Mundo!");
         System.out.println("Soy Diana");
-        System.out.println("Mi apellido es Aguilar");
+        System.out.println("Tengo 38 años");
     }
     
 }
